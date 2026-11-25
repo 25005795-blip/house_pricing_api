@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic-settings
+python-dotenv
+pandas
+scikit-learn
+feature-engine
+mlflow
+pytest
+httpx
